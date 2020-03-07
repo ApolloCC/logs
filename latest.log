@@ -1,0 +1,182 @@
+[10:58:15] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[10:58:15] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[10:58:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[10:58:15] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2779 for Minecraft 1.12.2 loading
+[10:58:15] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at D:\Program Files (x86)\Minecraft Launcher\runtime\jre-x64
+[10:58:15] [main/INFO] [FML]: Searching C:\Users\andyc\Desktop\1.12 Dev\mods for mods
+[10:58:15] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[10:58:15] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[10:58:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[10:58:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[10:58:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:58:16] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[10:58:16] [main/INFO] [FML]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[10:58:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:58:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[10:58:17] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[10:58:17] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[10:58:17] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[10:58:17] [Client thread/INFO] [net.minecraft.client.Minecraft]: Setting user: ApolloCC
+[10:58:19] [Client thread/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[10:58:19] [Client thread/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
+[10:58:20] [Client thread/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 394592168 bytes (376 MB) / 872415232 bytes (832 MB) up to 2147483648 bytes (2048 MB)
+	JVM Flags: 8 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx2G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 436.30' Renderer: 'GeForce GTX 1660/PCIe/SSE2'
+[10:58:20] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2779 Initialized
+[10:58:20] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[10:58:20] [Client thread/INFO] [FML]: Replaced 1036 ore ingredients
+[10:58:20] [Client thread/INFO] [FML]: Searching C:\Users\andyc\Desktop\1.12 Dev\mods for mods
+[10:58:20] [Client thread/INFO] [FML]: Forge Mod Loader has identified 6 mods to load
+[10:58:21] [Client thread/INFO] [FML]: FML has found a non-mod file modid-1.0-sources.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[10:58:21] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, tutorialmod, examplemod] at CLIENT
+[10:58:21] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, tutorialmod, examplemod] at SERVER
+[10:58:21] [Client thread/WARN] [FML]: ****************************************
+[10:58:21] [Client thread/WARN] [FML]: * Could not determine owning mod for @EventBusSubscriber on com.example.examplemod.CommonProxy for mod tutorialmod
+[10:58:21] [Client thread/WARN] [FML]: *  at net.minecraftforge.fml.common.AutomaticEventSubscriber.inject(AutomaticEventSubscriber.java:71)
+[10:58:21] [Client thread/WARN] [FML]: *  at net.minecraftforge.fml.common.FMLModContainer.constructMod(FMLModContainer.java:599)
+[10:58:21] [Client thread/WARN] [FML]: *  at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[10:58:21] [Client thread/WARN] [FML]: *  at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[10:58:21] [Client thread/WARN] [FML]: *  at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[10:58:21] [Client thread/WARN] [FML]: *  at java.lang.reflect.Method.invoke(Method.java:497)...
+[10:58:21] [Client thread/WARN] [FML]: ****************************************
+[10:58:21] [Client thread/WARN] [FML]: ****************************************
+[10:58:21] [Client thread/WARN] [FML]: * Could not determine owning mod for @EventBusSubscriber on com.example.examplemod.CommonProxy for mod examplemod
+[10:58:21] [Client thread/WARN] [FML]: *  at net.minecraftforge.fml.common.AutomaticEventSubscriber.inject(AutomaticEventSubscriber.java:71)
+[10:58:21] [Client thread/WARN] [FML]: *  at net.minecraftforge.fml.common.FMLModContainer.constructMod(FMLModContainer.java:599)
+[10:58:21] [Client thread/WARN] [FML]: *  at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[10:58:21] [Client thread/WARN] [FML]: *  at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[10:58:21] [Client thread/WARN] [FML]: *  at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[10:58:21] [Client thread/WARN] [FML]: *  at java.lang.reflect.Method.invoke(Method.java:497)...
+[10:58:21] [Client thread/WARN] [FML]: ****************************************
+[10:58:21] [Client thread/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Tutorial Mod, FMLFileResourcePack:Example Mod
+[10:58:21] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
+[10:58:21] [Client thread/INFO] [FML]: Found 1170 ObjectHolder annotations
+[10:58:21] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[10:58:21] [Client thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[10:58:21] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[10:58:21] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[10:58:21] [Client thread/INFO] [FML]: Applying holder lookups
+[10:58:21] [Client thread/INFO] [FML]: Holder lookups applied
+[10:58:21] [Client thread/INFO] [FML]: Applying holder lookups
+[10:58:21] [Client thread/INFO] [FML]: Holder lookups applied
+[10:58:21] [Client thread/INFO] [FML]: Applying holder lookups
+[10:58:21] [Client thread/INFO] [FML]: Holder lookups applied
+[10:58:21] [Client thread/INFO] [FML]: Applying holder lookups
+[10:58:21] [Client thread/INFO] [FML]: Holder lookups applied
+[10:58:21] [Client thread/INFO] [FML]: Injecting itemstacks
+[10:58:21] [Client thread/INFO] [FML]: Itemstack injection complete
+[10:58:21] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: OUTDATED Target: 14.23.5.2847
+[10:58:21] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[10:58:22] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[10:58:22] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[10:58:22] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[10:58:22] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 198212300 nanos
+[10:58:22] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
+[10:58:23] [Client thread/INFO] [FML]: Max texture size: 16384
+[10:58:24] [Client thread/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 512x512 textures-atlas
+[10:58:24] [Client thread/ERROR] [FML]: Exception loading model for variant tutorialmod:first_item#inventory, normal location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model tutorialmod:item/first_item with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177590_d(ModelLoader.java:302) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177577_b(ModelBakery.java:175) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:151) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.io.FileNotFoundException: tutorialmod:models/item/first_item.json
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:69) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177594_c(ModelBakery.java:334) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861) ~[ModelLoader$VanillaLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 14 more
+[10:58:24] [Client thread/ERROR] [FML]: Exception loading model for variant tutorialmod:first_item#inventory, blockstate location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model tutorialmod:first_item#inventory with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177590_d(ModelLoader.java:296) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177577_b(ModelBakery.java:175) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:151) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83) ~[bvv.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 14 more
+[10:58:25] [Client thread/INFO] [FML]: Applying holder lookups
+[10:58:25] [Client thread/INFO] [FML]: Holder lookups applied
+[10:58:25] [Client thread/INFO] [tutorialmod]: Tutorial Modsays hi!
+[10:58:25] [Client thread/INFO] [examplemod]: DIRT BLOCK >> minecraft:dirt
+[10:58:25] [Client thread/INFO] [FML]: Injecting itemstacks
+[10:58:25] [Client thread/INFO] [FML]: Itemstack injection complete
+[10:58:25] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 6 mods
+[10:58:25] [Client thread/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[10:58:25] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
+[10:58:35] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Starting integrated minecraft server version 1.12.2
+[10:58:35] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Generating keypair
+[10:58:35] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[10:58:35] [Server thread/INFO] [FML]: Applying holder lookups
+[10:58:35] [Server thread/INFO] [FML]: Holder lookups applied
+[10:58:36] [Server thread/INFO] [FML]: Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@b61d05e)
+[10:58:36] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[10:58:36] [Server thread/INFO] [FML]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@b61d05e)
+[10:58:36] [Server thread/INFO] [FML]: Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@b61d05e)
+[10:58:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[10:58:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 14%
+[10:58:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 32%
+[10:58:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 49%
+[10:58:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 69%
+[10:58:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 89%
+[10:58:42] [Server thread/INFO] [FML]: Unloading dimension -1
+[10:58:42] [Server thread/INFO] [FML]: Unloading dimension 1
+[10:58:42] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Changing view distance to 12, from 10
+[10:58:43] [Netty Local Client IO #0/INFO] [FML]: Server protocol version 2
+[10:58:43] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[10:58:43] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2779,tutorialmod@0.0.1,mcp@9.42,examplemod@1.0
+[10:58:43] [Netty Local Client IO #0/INFO] [FML]: [Netty Local Client IO #0] Client side modded connection established
+[10:58:43] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[10:58:43] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ApolloCC[local:E:25657c9e] logged in with entity id 1280 at (79.5, 71.0, 260.5)
+[10:58:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: ApolloCC joined the game
+[10:58:44] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[10:58:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[10:58:59] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[10:58:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[10:58:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[10:58:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[10:58:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ApolloCC lost connection: Disconnected
+[10:58:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: ApolloCC left the game
+[10:58:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Stopping singleplayer server as player logged out
+[10:58:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[10:58:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[10:58:59] [Server thread/INFO] [FML]: Unloading dimension 0
+[10:59:00] [Server thread/INFO] [FML]: Applying holder lookups
+[10:59:00] [Server thread/INFO] [FML]: Holder lookups applied
+[10:59:00] [Client thread/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[10:59:00] [Client thread/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[10:59:01] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com
